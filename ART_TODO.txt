@@ -26,6 +26,11 @@ you may find helpful for matching Wesnoth style:
 * "Portrait Tutorial": https://wiki.wesnoth.org/Portrait_Tutorial
 * "Armor Tutorial": https://wiki.wesnoth.org/Armour_Tutorial
 * "Technical requirements for portraits": https://forums.wesnoth.org/viewtopic.php?t=24555
+Also, if you are basing your portraits off of the sprites (which you really ought
+to), you should probably also see the articles on Team Coloring to know what to do
+with the magenta parts on the sprites:
+* "TeamColoring": https://wiki.wesnoth.org/TeamColoring
+* "Team Color Shifting": https://wiki.wesnoth.org/Team_Color_Shifting
 
 The following wishlist items are sorted in order of importance.  In addition, you
 may consider making animations for sprites, or correct existing sprites.
@@ -34,6 +39,8 @@ PORTRAITS
 ---------
 * Generic "good" Akladian high level unit, specifically the Darknite (one that
   matches its sprite better)
+* A better "Broken" Ruvio, after Fall of Freetown (current one is by a different
+  artist from the one for "regular" Ruvio, who left out a lot of his wrinkles)
 * Generic low-level Akladian unit with swords (Raiders+Sturmknight) 
 * Generic Akladian unit with spears (Warrior and LightInfantry still remain)
   (Clansman already exists as akladian_generic.png and Pikeneer already exists as
@@ -47,6 +54,8 @@ PORTRAITS
 * Heinric the Redbeard (enemy leader from the first scenario; can be either a City
   Militia or a Lieutenant, depending on difficulty) (low priority)
 * better older-looking mage for the medic who heals Gawen in S01 (low priority)
+  (current one is a frankenportrait, that, despite having received some work,
+  could still use further improvement)
 * portraits for some of the less-important units with descriptive names, e.g.
   "John the Baldhead" (a peasant discoverable in S13), "Fat Bart" (an enemy
   Fugitive leader attacking the Oracle in S19c), and "Robert the Hefty" (an enemy
