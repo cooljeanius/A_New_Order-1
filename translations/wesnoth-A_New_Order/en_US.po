@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2024-11-18 03:44 UTC\n"
-"PO-Revision-Date: 2024-11-19 19:26-0500\n"
+"POT-Creation-Date: 2024-11-20 00:33 UTC\n"
+"PO-Revision-Date: 2024-11-19 19:34-0500\n"
 "Last-Translator: Eric Gallager <egall@gwmail.gwu.edu>\n"
 "Language-Team: \n"
 "Language: en_US\n"
@@ -16251,8 +16251,8 @@ msgid "Note: you will receive no bonus if you withdraw with Reme."
 msgstr ""
 
 #. [part]
-#. Konrad2 suggests "to not be" instead of "not to be" but I think it is fine as is; see:
-#. https://forums.wesnoth.org/viewtopic.php?p=663581#p663581
+#. Konrad2 suggests "to not be" instead of "not to be" but I (egallager) think it is fine as is;
+#. see https://forums.wesnoth.org/viewtopic.php?p=663581#p663581 for Konrad2's original suggestion
 #: A_New_Order/scenarios/14b_Bontom.cfg:120
 msgid ""
 "Guides showed Gawen where Bontom was located. He and his army soon reached "
