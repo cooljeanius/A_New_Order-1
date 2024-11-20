@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-11-18 03:44 UTC\n"
-"PO-Revision-Date: 2024-11-17 22:45-0500\n"
+"PO-Revision-Date: 2024-11-19 19:26-0500\n"
 "Last-Translator: Eric Gallager <egall@gwmail.gwu.edu>\n"
 "Language-Team: \n"
 "Language: en_US\n"
@@ -4170,6 +4170,10 @@ msgstr ""
 
 #: A_New_Order/macros/conversations_support.cfg:189
 msgid "You see, young Karen--"
+msgstr ""
+
+#: A_New_Order/macros/conversations_support.cfg:190
+msgid "Could you stop it with the “young” please? Just “Karen” is fine."
 msgstr ""
 
 #: A_New_Order/macros/conversations_support.cfg:191
